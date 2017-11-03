@@ -17,8 +17,6 @@ var buttons = function() {
     document.body.appendChild(div);
   }
 };
-
-
 document.addEventListener('DOMContentLoaded', function() {
   buttons();
 }, false);
